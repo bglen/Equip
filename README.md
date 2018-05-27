@@ -1,8 +1,10 @@
 # ProjectSource
 
+![Current Logo] (ProjectSource.png)
+
 *ProjectSource provides makers with the ability to share projects of all kinds across the community.*
 
-ProjectSource is an online community where people can share their DIY projects, find inspiration, learn new skills, and connect with their local maker community. An Instagram for Makers, ProjectSource is a place for people to use tools and share stories.
+ProjectSource is the codename for an online community where people can share their DIY projects, find inspiration, learn new skills, and connect with their local maker community. An Instagram for Makers, ProjectSource is a place for people to use tools and share stories.
 
 ## To Do:
 - Update and upload Business Plan
