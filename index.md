@@ -8,9 +8,10 @@ Welcome to ProjectSource. `Coming Soon.`
 
 ProjectSource is the codename for an upcoming social media and mobile app directed at the maker community, focused on the sharing of projects and ideas from one maker to the other, learning new skills, and connecting with one's local community.
 
-Created by [Brian Glen.] and Micheal Liang.
+Created by [Brian Glen.] and Michael Liang.
 
   [Brian Glen.]: https://www.brianglen.com
+  [Michael Liang.]: https://www.mllelectronics.com
 
 > When something is important enough, you do it even if the odds are not in your favor.
 
