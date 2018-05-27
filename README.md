@@ -6,6 +6,7 @@ ProjectSource is an online community where people can share their DIY projects, 
 
 ## To Do:
 - Update and upload Business Plan
+- get micheal to update is website so i can link it
 - Create Wiki page and Flowchart outlining the full web Stack
     - RESTful JSON API Server written in Go
     - Go for Client/Server interactions
@@ -21,7 +22,7 @@ ProjectSource is an online community where people can share their DIY projects, 
     - Outline and detail the grassroots marketing strategy
         - write detailed wiki on marketing
     - Determine Name/Logo for Brand
-    - Set up Static Marketing page with sign up for info
+    - Set up Static Marketing page with sign up for info **in progress**
    
 ## Goals
 
