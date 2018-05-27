@@ -8,7 +8,7 @@ ProjectSource is the codename for an online community where people can share the
 
 ## To Do:
 - Update and upload Business Plan
-- get micheal to update is website so i can link it
+- get micheal to update his website so i can link it
 - Create Wiki page and Flowchart outlining the full web Stack
     - RESTful JSON API Server written in Go
     - Go for Client/Server interactions
@@ -33,5 +33,7 @@ ProjectSource is the codename for an online community where people can share the
 ## Project philosophy
 
 ## Contributing
-   
-Interested in our project? Contact the founders for jobs, internships, and other opportunities.
+
+The wiki contains the latest information regarding the status of ProjectSource. In there, you will find detailed information on contributing to all the different modules of ProjectSource, as well as a company styleguide which must be abided by in order to meaningfully contribute.
+
+ProjectSource uses a git repository to track and review revisions to the master codebase. Research how github works before attempting to contribute. First, clone the repository, make your changes, and issue a pull request. Once your additions have been reviewed, your pull request will either be merged with the master codebase, or your will be informed of any changes that must be made first.
