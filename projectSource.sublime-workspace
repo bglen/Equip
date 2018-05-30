@@ -172,20 +172,28 @@
 	"buffers":
 	[
 		{
-			"file": "README.md",
+			"file": "index.md",
 			"settings":
 			{
-				"buffer_size": 1970,
+				"buffer_size": 671,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "index.md",
+			"file": "_sass/_default_colors.scss",
 			"settings":
 			{
-				"buffer_size": 592,
+				"buffer_size": 308,
 				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 39,
 				"line_ending": "Unix"
 			}
 		}
@@ -227,10 +235,13 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/brian/go/src/projectSource"
+		"/Users/brian/Documents/GitHub/ProjectSource"
 	],
 	"file_history":
 	[
+		"/Users/brian/Documents/GitHub/ProjectSource/docs/CODE_OF_CONDUCT.md",
+		"/Users/brian/Documents/GitHub/ProjectSource/docs/CONTRIBUTING.md",
+		"/Users/brian/Documents/GitHub/ProjectSource/README.md",
 		"/Users/brian/Documents/GitHub/brianglen.github.io/_layouts/default.html",
 		"/Users/brian/Documents/GitHub/brianglen.github.io/index.md",
 		"/Users/brian/Documents/GitHub/brianglen.github.io/docs/CODE_OF_CONDUCT.md",
@@ -305,54 +316,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "README.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1970,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								154,
-								154
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "index.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 592,
+						"buffer_size": 671,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								502,
-								502
+								671,
+								671
 							]
 						],
 						"settings":
@@ -363,7 +344,63 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_sass/_default_colors.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								308,
+								308
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Gemfile",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]

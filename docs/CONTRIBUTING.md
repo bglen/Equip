@@ -1,15 +1,9 @@
-# Contributing to The Hacker Theme
+# Contributing to ProjectSource
 
-Hi there! We're thrilled that you'd like to contribute to The Hacker Theme. Your help is essential for keeping it great.
-
-The Hacker Theme is an open source project supported by the efforts of an entire community and built one contribution at a time by users like you. We'd love for you to get involved. Whatever your level of skill or however much time you can give, your contribution is greatly appreciated. There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests, helping other users by commenting on issues, or writing code which can be incorporated into The Hacker Theme itself.
+We'd love for you to get involved. Whatever your level of skill or however much time you can give, your contribution is greatly appreciated. There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests, helping other users by commenting on issues, or writing code which can be incorporated into The Hacker Theme itself.
 
 Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
-
-## Looking for support?
-
-We'd love to help. Check out [the support guidelines](SUPPORT.md).
 
 ## How to report a bug
 
@@ -35,13 +29,13 @@ Feature requests are welcome. But take a moment to find out whether your idea fi
 [Open an issue](https://github.com/pages-themes/hacker/issues/new) which describes the feature you would like to see, why you want it, how it should work, etc.
 
 
-
 ## Your first contribution
 
-We'd love for you to contribute to the project. Unsure where to begin contributing to The Hacker Theme? You can start by looking through these "good first issue" and "help wanted" issues:
+We'd love for you to contribute to the project. Unsure where to begin contributing to The Hacker Theme? You can start by looking through the issues:
 
-* [Good first issues](https://github.com/pages-themes/hacker/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) - issues which should only require a few lines of code and a test or two
-* [Help wanted issues](https://github.com/pages-themes/hacker/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) - issues which may be a bit more involved, but are specifically seeking community contributions
+* [ProjectSource Web Issues](https://github.com/pages-themes/hacker/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+* [ProjectSource Static Site Issues](https://github.com/pages-themes/hacker/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+* [ProjectSource Android Issues](https://github.com/pages-themes/hacker/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 *p.s. Feel free to ask for help; everyone is a beginner at first* :smiley_cat:
 
@@ -50,7 +44,7 @@ We'd love for you to contribute to the project. Unsure where to begin contributi
 Here's a few general guidelines for proposing changes:
 
 * If you are making visual changes, include a screenshot of what the affected element looks like, both before and after.
-* Follow the [Jekyll style guide](https://ben.balter.com/jekyll-style-guide).
+* Follow the [Coding Style Guide](https://ben.balter.com/jekyll-style-guide).
 * If you are changing any user-facing functionality, please be sure to update the documentation
 * Each pull request should implement **one** feature or bug fix. If you want to add or fix more than one thing, submit more than one pull request
 * Do not commit changes to files that are irrelevant to your feature or bug fix
@@ -59,27 +53,19 @@ Here's a few general guidelines for proposing changes:
 
 At a high level, [the process for proposing changes](https://guides.github.com/introduction/flow/) is:
 
-1. [Fork](https://github.com/pages-themes/hacker/fork) and clone the project
-2. Configure and install the dependencies: `script/bootstrap`
-3. Make sure the tests pass on your machine: `script/cibuild`
+1. [Fork](https://github.com/pages-themes/hacker/fork) and clone the project for each bug fix or feature
+2. Configure and install the packages and
+3. Test by attempting to compile: `go build`
 4. Create a new branch: `git checkout -b my-branch-name`
-5. Make your change, add tests, and make sure the tests still pass
+5. Make your change, test, make more changes, and verify that your code still compiles
 6. Push to your fork and [submit a pull request](https://github.com/pages-themes/hacker/compare)
 7. Pat your self on the back and wait for your pull request to be reviewed and merged
 
-**Interesting in submitting your first Pull Request?** It's easy! You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
-
-## Bootstrapping your local development environment
-
-`script/bootstrap`
-
-## Running tests
-
-`script/cibuild`
+**Interested in submitting your first Pull Request?** It's easy! You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
 ## Code of conduct
 
-This project is governed by [the Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+This project is governed by [our Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
 ## Additional Resources
 
