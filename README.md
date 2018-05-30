@@ -1,6 +1,6 @@
 # ProjectSource
 
-![Current Logo](ProjectSource.png)
+![Current Logo](/assets/images/ProjectSource.png)
 
 *ProjectSource provides makers with the ability to share projects of all kinds across the community.*
 
