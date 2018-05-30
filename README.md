@@ -28,7 +28,43 @@ ProjectSource is the codename for an online community where people can share the
    
 ## Goals
 
-## Roadmap
+## 2018 Roadmap
+**_This is an outline of our expected timeline and rollout for ProjectSource, based on our current estimations_**
+
+### May 20th, Start of Project, 2 months to MakerFaire
+- find a server (DONE)
+- setup Communications and Repositories (DONE)
+- create static marketing page (IN PROGRESS)
+- create backend GO API server version 1 (DONE)
+- Ability to SSH into hosting server(IN PROGRESS)
+- Harden the server
+
+### June 10th, 3 weeks after start
+- Scaleable Backend Go Server complete(IN PROGRESS)
+- Name and Logo determined(IN PROGRESS)
+- social media promotion and sites set up
+- working Frontend interacting with Backend Database server
+  - retrieve and send data securely with packet and cookie authentication
+- start creation of accounts and account management
+- Finalize core functionality of MVP(IN PROGRESS)
+
+### June 30th, 1 month to MakerFaire
+- 1st Project and Account listed on experimental MVP
+- Optimization for mobile visitors has begun
+- start creation of Android and iOS Apps(Mobile development lagging 1 month behind desktop website)
+
+### July 28th, MakerFaire Detroit
+- Name and Logo setup
+- First Wave of Marketing
+  - business cards to hand out at MakerFaire
+- Complete and working static marketing page
+  - static page highlights the choose color pallete and "vibe" of the MVP
+- Version 1 of MVP complete
+
+### September, TBA
+- limited beta has been released invitation-style to known in-person
+- transfer from self-hosting on dev server to paid hosting
+
 
 ## Project philosophy
 
