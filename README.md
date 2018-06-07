@@ -1,6 +1,9 @@
+![Current Logo](/assets/images/ProjectSource.png)
+
+**is now**
+
 # ReTool
 
-![Current Logo](/assets/images/ProjectSource.png)
 
 *ReTool provides the maker community a localized and curated source for used tools and equipment*
 
