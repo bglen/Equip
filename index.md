@@ -2,11 +2,9 @@
 layout: default
 ---
 
-Welcome to ProjectSource. `Coming Soon to MakerFaire Detroit 2018.`
+Welcome to ReTool. `Coming Soon to MakerFaire Detroit 2018.`
 
-*ProjectSource provides makers with the ability to share projects of all kinds across the community.*
-
-ProjectSource is the codename for an upcoming social media and mobile app directed at the maker community, focused on the sharing of projects and ideas from one maker to the other, learning new skills, and connecting with one's local community.
+*Retool is the premier peer to peer tool and equipment marketplace for the maker community *
 
 Created by [Brian Glen] and [Micheal Liang].
 
