@@ -2,19 +2,11 @@
 
 ![Current Logo](/assets/images/ProjectSource.png)
 
-*ProjectSource provides makers with the ability to share projects of all kinds across the community.*
+*ReTool provides the maker community a localized and curated source for used tools and equipment*
 
-ReTool
 
 ## To Do:
 - Update and upload Business Plan
-- get micheal to update his website so i can link it
-- Create Wiki page and Flowchart outlining the full web Stack
-    - RESTful JSON API Server written in Go
-    - Go for Client/Server interactions
-    - Go for front end
-    - MySQL Database
-    - HTML, CSS(or SCCS) front end client side
 - Create company style guide
 - Backend:
     - Setup outgoing port for server on router
