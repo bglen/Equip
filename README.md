@@ -2,10 +2,9 @@
 
 **is now**
 
-# ReTool
+# Equip
 
-
-*ReTool provides the maker community a localized and curated source for used tools and equipment*
+*Equip provides the maker community a localized and curated source for used tools and equipment*
 
 
 ## To Do:
