@@ -1,0 +1,433 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"drop",
+				"dropdown-item"
+			],
+			[
+				"ge",
+				"getY"
+			],
+			[
+				"LAST",
+				"last_sample"
+			],
+			[
+				"avera",
+				"average_temp"
+			],
+			[
+				"write",
+				"write_out"
+			],
+			[
+				"get",
+				"getTime"
+			],
+			[
+				"set",
+				"setTemp"
+			],
+			[
+				"setB",
+				"setBottomLeftY"
+			],
+			[
+				"getB",
+				"getBottomLeft"
+			],
+			[
+				"scale",
+				"scalefact"
+			],
+			[
+				"sca",
+				"scaleBy3"
+			],
+			[
+				"displ",
+				"displayRectangles"
+			],
+			[
+				"mi",
+				"midPoint"
+			],
+			[
+				"add",
+				"addRectangle"
+			],
+			[
+				"invalid",
+				"invalidInput"
+			],
+			[
+				"length",
+				"length"
+			],
+			[
+				"read",
+				"readInLengths"
+			],
+			[
+				"inpu",
+				"inputName"
+			],
+			[
+				"va",
+				"validateInput"
+			],
+			[
+				"display",
+				"displayBanner"
+			],
+			[
+				"Co",
+				"COLUMNWIDTH"
+			],
+			[
+				"displa",
+				"display_freqs"
+			],
+			[
+				"disp",
+				"display_characters"
+			],
+			[
+				"compu",
+				"compute_vowel_freqs"
+			],
+			[
+				"game",
+				"gameIsWon"
+			],
+			[
+				"valida",
+				"validateRemoveStones"
+			],
+			[
+				"chos",
+				"chosenRod"
+			],
+			[
+				"valid",
+				"validateRemoveStones"
+			],
+			[
+				"numStones",
+				"numStonesToRemove"
+			],
+			[
+				"tota",
+				"totalStones"
+			],
+			[
+				"ask",
+				"askForStones"
+			],
+			[
+				"check",
+				"checkIfRodIsZero"
+			],
+			[
+				"draw",
+				"drawRods"
+			],
+			[
+				"zer",
+				"zeroStones"
+			],
+			[
+				"largest",
+				"largestStones"
+			],
+			[
+				"average",
+				"averageStones"
+			],
+			[
+				"smalles",
+				"smallestStones"
+			],
+			[
+				"ar",
+				"array_add"
+			],
+			[
+				"don",
+				"doneLoading"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"base",
+				"baseA"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 2896,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control",
+		"selected_items":
+		[
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 144.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/brian/Documents/GitHub/Equip"
+	],
+	"file_history":
+	[
+		"/Users/brian/go/src/github.com/bglen/Equip/views/views.go",
+		"/Users/brian/go/src/github.com/bglen/Equip/templates/home.html",
+		"/Users/brian/go/src/github.com/bglen/Equip/types/types.go",
+		"/Users/brian/go/src/github.com/bglen/Equip/main.go",
+		"/Users/brian/go/src/github.com/bglen/ProjectSourceWeb/README.md",
+		"/Users/brian/go/src/github.com/bglen/ProjectSourceWeb/types/types.go",
+		"/Users/brian/Documents/GitHub/brianglen.github.io/_layouts/default.html",
+		"/Users/brian/go/src/github.com/bglen/ProjectSourceWeb/views/views.go",
+		"/Users/brian/go/src/github.com/bglen/ProjectSourceWeb/main.go",
+		"/Users/brian/go/src/github.com/ProjectSourceWeb/main.go",
+		"/Users/brian/Documents/GitHub/ProjectSourceWeb/main.go",
+		"/Users/brian/Documents/GitHub/ProjectSource/docs/CODE_OF_CONDUCT.md",
+		"/Users/brian/Documents/GitHub/ProjectSource/docs/CONTRIBUTING.md",
+		"/Users/brian/Documents/GitHub/ProjectSource/README.md",
+		"/Users/brian/Documents/GitHub/brianglen.github.io/index.md",
+		"/Users/brian/Documents/GitHub/brianglen.github.io/docs/CODE_OF_CONDUCT.md",
+		"/Users/brian/Documents/GitHub/soldermonkey.github.io/index.md",
+		"/Users/brian/Documents/GitHub/brianglen.github.io/old_versions/terminal.js",
+		"/Users/brian/Documents/GitHub/brianglen.github.io/_sass/rouge-base16-dark.scss",
+		"/Users/brian/Documents/GitHub/brianglen.github.io/old_versions/style.css",
+		"/Users/brian/Documents/GitHub/brianglen.github.io/style.css",
+		"/Users/brian/Documents/GitHub/brianglen.github.io/terminal.js",
+		"/Users/brian/Documents/GitHub/brianglen.github.io/index.html",
+		"/Users/brian/Desktop/test.md",
+		"/Users/brian/practice.cpp",
+		"/Users/brian/temps.cpp",
+		"/Users/brian/Desktop/OSU/ENGR1182/PT3/PT3.ino",
+		"/Users/brian/triangles.cpp",
+		"/Users/brian/rectangles.cpp",
+		"/Users/brian/Desktop/PT3/PT3.ino",
+		"/Users/brian/Desktop/PT3/PT3.pdf",
+		"/Users/brian/freq.cpp",
+		"/Users/brian/pickstones.cpp",
+		"/Users/brian/split.cpp",
+		"/Users/brian/pickstones_compressed.cpp",
+		"/Users/brian/array.cpp",
+		"/Users/brian/Documents/GitHub/brianglen.github.io/computer.js",
+		"/Users/brian/isprime.cpp",
+		"/Users/brian/polarcoord.cpp",
+		"/Users/brian/Documents/GitHub/brianglen.github.io/warpspeed.js",
+		"/Users/brian/Documents/GitHub/brianglen.github.io/warpspeed.min.js",
+		"/Users/brian/Downloads/warpspeed-master/example1.html",
+		"/Users/brian/Documents/GitHub/brianglen.github.io/default.html",
+		"/Users/brian/Documents/GitHub/brianglen.github.io/_layouts/vector2D.cpp",
+		"/Users/brian/logTable.cpp",
+		"/Users/brian/Downloads/SparkFun_LSM9DS0_Arduino_Library-master/README.md",
+		"/Users/brian/factors.cpp",
+		"/Users/brian/hourglass.cpp",
+		"/Users/brian/Documents/HelloWorld.cpp",
+		"/Users/brian/Downloads/DipTrace-Adruino-Library-beta/README.md",
+		"/Users/brian/Documents/test.cpp",
+		"/Users/brian/Downloads/IdahoTrailCavern-master/IdahoTrail.m",
+		"/Users/brian/Downloads/Class_15_App-1.m"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "EquipMarketing.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
