@@ -2,7 +2,8 @@
 layout: default
 ---
 
-Welcome to the Equip Tool Marketplace. `Coming Soon to MakerFaire Detroit 2018.`
+|:--####Welcome to the Equip Tool Marketplace.--:|
+`Coming Soon to MakerFaire Detroit 2018.`
 
 _Equip is the premier tool and equipment marketplace for the maker community, with each listing being examined for quality and authenticity._
 
