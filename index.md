@@ -4,7 +4,7 @@ layout: default
 
 Welcome to the Equip Tool Marketplace. `Coming Soon to MakerFaire Detroit 2018.`
 
-*Equip is the premier peer to peer tool and equipment marketplace for the maker community *
+_Equip is the premier tool and equipment marketplace for the maker community, with each listing being examined for quality and authenticity._
 
 Created by [Brian Glen](www.brianglen.com) and Micheal Liang.
 
