@@ -188,7 +188,7 @@
 			"file": "index.md",
 			"settings":
 			{
-				"buffer_size": 351,
+				"buffer_size": 356,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -240,10 +240,13 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/brian/Documents/GitHub/Equip"
+		"/Users/brian/Documents/GitHub/Equip",
+		"/Users/brian/Documents/GitHub/Equip/_layouts"
 	],
 	"file_history":
 	[
+		"/Users/brian/Documents/GitHub/Equip/home.md",
+		"/Users/brian/Documents/GitHub/Equip/index.md",
 		"/Users/brian/go/src/github.com/bglen/Equip/views/views.go",
 		"/Users/brian/go/src/github.com/bglen/Equip/templates/home.html",
 		"/Users/brian/go/src/github.com/bglen/Equip/types/types.go",
@@ -300,7 +303,7 @@
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -331,7 +334,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -361,7 +364,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -370,15 +373,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 351,
+						"buffer_size": 356,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								247,
-								247
+								201,
+								201
 							]
 						],
 						"settings":
@@ -389,7 +392,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -417,7 +420,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -425,7 +428,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -462,7 +465,7 @@
 	"project": "EquipMarketing.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
